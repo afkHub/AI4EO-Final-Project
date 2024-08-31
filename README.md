@@ -1,6 +1,8 @@
 # AI4EO-Final-Project
 This project aims to monitor sea ice and detect different sea ice types using satellite SAR data in the North Atlantic region. The scripts were written for the final report of the *"AI4EO Platforms and Best Practices"* course given by @adamjstewart at TUM.
 
+*Additional Information*: The folders and codes are numbered according to the order in which they were created. For example, if the document starts with '2-', it means that it is the second script I wrote. It might be better to review them in this order.
+
 ## Data Acquisition
 
 The project utilizes satellite data and other datasets, which need to be downloaded separately as they are not included in the repository.
